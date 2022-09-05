@@ -27,9 +27,9 @@ This investigation has primarily two objectives:
 
 ## 4. Steps to execute this Project.
 
-1. Download the zip file B210472095_CSC8639_Code which contains the source code undertaken for the research.
+1. Download/fork/clone the project by clicking [here](https://github.com/pillasatish/Intrepretable_AI).
 
-2. Unzip the zip file and once the files are unzipped one can see that the folder contains four sub-folders and a readme file. Each sub-folder is named according to the research work undertaken during the thesis.  
+2. Once the repository is downloaded one can see that the folder contains four sub-folders and a readme file. Each sub-folder is named according to the research work undertaken during the thesis.  
 
 3. The first folder Concept Whitening contains one ipynb file (Concept_Whitening.ipynb) and 5 py files:
 	a. Plot_function.py: to plot the required graph
