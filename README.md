@@ -1,4 +1,4 @@
-# Intrepretable_AI# Interpretable AI For Protein Expression Images and Associated Clinical Metadata
+# Interpretable AI For Protein Expression Images and Associated Clinical Metadata
 
 ## 1. Introduction
 
